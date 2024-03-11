@@ -1,0 +1,5 @@
+- 👋 Hello World, I’m @Crumblehero
+- 👀 I’m interested in Programming with Java, HTML and CSS
+- 🤖 I really like to work with AI
+- 🌱 I’m currently learning Python
+- ⚡ Fun fact: Java is actually an Island!
